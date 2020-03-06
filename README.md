@@ -1,2 +1,2 @@
 # teamA
-groep Sjors, Leroy
+groep Sjors, Leroy, Mike, Mark
